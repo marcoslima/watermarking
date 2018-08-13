@@ -84,4 +84,3 @@ HEADERS += \
     benchmark/properties/Threshold.h \
     benchmark/properties/Filter.h \
     benchmark/properties/FFTProperty.h
-
